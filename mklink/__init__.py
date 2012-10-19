@@ -4,4 +4,4 @@
 
 from _mklink import mklink
 
-__all__ = ['mklink', ]
+__all__ = ['mklink']
